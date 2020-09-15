@@ -1,0 +1,74 @@
+body {
+	background: #232323;
+	font-family: 'Asap', sans-serif;
+}
+
+.top{
+	width: 100px;
+	float: right;	
+	margin-bottom: 120px;
+}
+
+.top a{
+	color: #E8E8E8;
+	text-decoration: none;
+	font-family: 'Asap', sans-serif;
+}
+
+nav{
+	display: flex;
+	width: 100%;
+	background: #a77a23;
+	height: 50px;
+}
+
+.menu{
+	padding: 15px;
+	margin: auto;
+	font-family: 'Asap', sans-serif;
+}
+.menu a{
+	padding: 15px;
+	color: #000000;
+	text-decoration: none;	
+	margin: 0 50px;
+}
+
+.form-edit{
+	margin-top: 35px;
+	margin-left: 290px;
+}
+
+form{
+	display: block;
+	width: 330px;
+	padding: 15px;
+	font-family: 'Asap', sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+.input{
+	padding: 10px;
+	margin: 20px 0 10px 30px;
+	border: none;
+	background: #232323;
+	color: #E8E8E8;
+	outline: 0;
+	font-family: 'Asap', sans-serif;
+	font-size: 16px;
+	color: white;
+}
+
+.bttn{
+	background-color: #E8E8E8;
+	padding: 10px;
+	float: right;
+	border-radius: 10px;
+	border-style: none;
+	font-family: 'Asap', sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+}
+

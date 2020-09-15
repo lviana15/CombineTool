@@ -1,0 +1,36 @@
+body {
+	background: #232323;
+	font-family: 'Asap', sans-serif;
+}
+
+
+.top{
+	width: 100px;
+	float: right;	
+	margin-bottom: 120px;
+}
+
+.top a{
+	color: #E8E8E8;
+	text-decoration: none;
+	font-family: 'Asap', sans-serif;
+}
+
+nav{
+	display: flex;
+	width: 100%;
+	background: #a77a23;
+	height: 50px;
+}
+
+.menu{
+	padding: 15px;
+	margin: auto;
+	font-family: 'Asap', sans-serif;
+}
+.menu a{
+	padding: 15px;
+	color: #000000;
+	text-decoration: none;	
+	margin: 0 50px;
+}

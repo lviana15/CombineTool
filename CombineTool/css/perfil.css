@@ -1,0 +1,66 @@
+body {
+	background: #232323;
+	font-family: 'Asap', sans-serif;
+}
+
+
+.top{
+	width: 100px;
+	float: right;	
+	margin-bottom: 120px;
+}
+
+.top a{
+	color: #E8E8E8;
+	text-decoration: none;
+	font-family: 'Asap', sans-serif;
+}
+
+nav{
+	display: flex;
+	width: 100%;
+	background: #a77a23;
+	height: 50px;
+}
+
+.menu{
+	padding: 15px;
+	margin: auto;
+	font-family: 'Asap', sans-serif;
+}
+.menu a{
+	padding: 15px;
+	color: #000000;
+	text-decoration: none;	
+	margin: 0 50px;
+}
+
+.dados {
+	height: 350px;
+	width: 330px;
+	padding: 10px;
+	margin: 15px 0 0 270px;
+}
+
+table{
+	margin: 30px 0 40px 0;
+	font-family: 'Asap', sans-serif;
+	font-size: 18px;
+	color: white;
+}
+
+table td{
+	padding: 20px;
+}
+
+.botao{
+	background-color: #E8E8E8;
+	padding: 10px;
+	float: right;
+	border-radius: 10px;
+	border-style: none;
+	font-family: 'Asap', sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	color: black;
+}

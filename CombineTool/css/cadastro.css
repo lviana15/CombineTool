@@ -1,0 +1,76 @@
+body {
+	background: #232323;
+	font-family: 'Asap', sans-serif;
+}
+
+.principal{
+	width: 768px;
+	height: 300px;
+	margin: 115px auto 0 auto;	
+}
+
+.img-atleta{
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+
+.img-lebron{
+	margin: 0 50px;
+	width: 200px;
+	height: 300px;
+}
+
+
+.login{
+	float: right;
+
+}
+
+form{
+	display: block;
+	color: blue;
+	width: 200px;
+}
+
+.input{
+	padding: 6px;
+	margin: 13px auto;
+	border-color: white;
+	border-width: 3px;
+	background: #232323;
+	border-radius: 6px;
+	color: #E8E8E8;
+	outline: 0;
+	border-style: solid;
+}
+
+.bttn{
+	padding: 8px;
+	margin: 10px auto;
+	color: #232323;
+	background: #E8E8E8;
+	border-style: none;
+	border-radius: 6px;
+	width: 190px;
+	font-size: 16px;
+}
+
+nav{
+	display: flex;
+	width: 100%;
+	background: #a77a23;
+	height: 50px;
+}
+
+.menu{
+	padding: 15px;
+	margin: auto;
+	font-family: 'Asap', sans-serif;
+}
+.menu a{
+	padding: 15px;
+	color: #000000;
+	text-decoration: none;	
+	margin: 0 50px;
+}
